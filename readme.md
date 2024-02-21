@@ -1,6 +1,6 @@
 ## A population level study on the determinants of COVID-19 vaccination rates at the U.S. county level
 
-doi: [https://www.medrxiv.org/content/10.1101/2023.07.12.23292582v1](https://www.nature.com/articles/s41598-024-54441-x)
+doi: [https://www.nature.com/articles/s41598-024-54441-x](https://www.nature.com/articles/s41598-024-54441-x)
 
 Authors: Ensheng Dong, Kristen Nixon, Lauren M. Gardner.
 
